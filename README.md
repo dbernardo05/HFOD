@@ -32,5 +32,5 @@ von Ellenrieder, Nicol√°s, et al. "Automatic detection of fast oscillations (40‚
 			}
  2. curr_batch is the name of the current experiment
  3. subject is the name of the current experiment subject
- 4. params should have format [pc, bc, flc], where pc is the proportionality constant, bc is baseline constant bc as described in von Ellenrieder et al, and flc is fir length constant which is proportionality constant of FIR filter effective duration.
+ 4. params should have format [pc, bc, flc], where pc is the proportionality constant, bc is baseline constant bc as described in von Ellenrieder et al, and flc is fir length constant which is proportionality constant of FIR filter effective duration. Example values: [2.5, 2.0, 1.0].
  
